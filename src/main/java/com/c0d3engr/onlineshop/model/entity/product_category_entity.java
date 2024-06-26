@@ -1,5 +1,5 @@
 package com.c0d3engr.onlineshop.model.entity;
 
-public class product_category_entity {
+public class Product_category_entity {
     
 }

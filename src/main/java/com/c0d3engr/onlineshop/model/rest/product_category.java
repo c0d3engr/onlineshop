@@ -1,5 +1,5 @@
 package com.c0d3engr.onlineshop.model.rest;
 
-public class product_category {
+public class Product_category {
     
 }

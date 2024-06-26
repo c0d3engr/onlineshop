@@ -1,5 +1,5 @@
 package com.c0d3engr.onlineshop.model.rest;
 
-public class user_payment {
+public class User_payment {
     
 }
