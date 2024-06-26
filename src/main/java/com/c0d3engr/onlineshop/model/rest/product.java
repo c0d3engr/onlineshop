@@ -21,5 +21,4 @@ public class Product {
     private Timestamp created_at;
     private Timestamp modified_at;
     private Timestamp deleted_at;
-
 }

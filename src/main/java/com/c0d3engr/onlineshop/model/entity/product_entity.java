@@ -21,8 +21,8 @@ import lombok.NoArgsConstructor;
 @Entity (name = "product")
 public class Product_entity {
     
-    @Id // I don't fully understand this part yet.
-    @GeneratedValue (strategy = GenerationType.IDENTITY)
+    @Id // Sets id as the primary key.
+    @GeneratedValue (strategy = GenerationType.IDENTITY) // Sets field to autoincremental.
 
     private Integer id;
     private String name;
