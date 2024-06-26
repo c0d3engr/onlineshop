@@ -2,6 +2,11 @@ package com.c0d3engr.onlineshop.model.rest;
 
 import java.security.Timestamp;
 
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
