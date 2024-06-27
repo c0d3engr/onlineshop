@@ -21,9 +21,9 @@ import lombok.NoArgsConstructor;
 @Entity (name = "product")
 public class Product_entity {
     
+    
     @Id // Sets id as the primary key.
     @GeneratedValue (strategy = GenerationType.IDENTITY) // Sets field to autoincremental.
-
     private Integer id;
     private String name;
     private String desc;
@@ -35,5 +35,5 @@ public class Product_entity {
 
     @ManyToOne(fetch = FetchType.LAZY) // I don't fully understand this part yet.
     @JoinColumn(name="category_id") // I don't fully understand this part yet.
-    private Product_category_entity product_category_entitycategory;
+    private User_entity user_entity; // This needs correction. 
 }

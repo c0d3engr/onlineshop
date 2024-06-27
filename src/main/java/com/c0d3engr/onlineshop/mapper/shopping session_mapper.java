@@ -1,0 +1,5 @@
+package com.c0d3engr.onlineshop.mapper;
+
+public class shopping session_mapper {
+    
+}
