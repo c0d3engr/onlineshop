@@ -1,6 +1,6 @@
 A simple online shop project called 'onlineshop' with SpringBoot and Angular
 
-Onlineshop project is an example app depicts a simple eCommerce Application with Spring Boot API and CRUD (create, read, update, and delete) its data with a Angular framework.
+Onlineshop project is an example app that depicts a simple eCommerce Application with Spring Boot API and CRUD (create, read, update, and delete) its data with a Angular framework.
 
 Tools: For this project it was necessary to use tools such as those shown below.
 
